@@ -1,5 +1,5 @@
 # Data-Management-Project
-Evaluating the relationship between games and reviews
+Evaluating the relationship between games and reviews. A deep analysis using Steam and MetaCritic as Data Resources.
 
 Description:
 The world of video games has experienced remarkable growth, with billions of users and a thriving industry, especially during the COVID-19 pandemic. This project aims to evaluate the relationship between games and reviews, addressing questions about the importance of reviews in a game's success. The study focuses primarily on PC games, using data from Steam for user reviews and Metacritic for critics' reviews. Challenges in data acquisition and integration required data cleaning and normalization of game titles for a successful merge between the datasets. The project found that user and critic reviews often align but not in a perfectly correlated manner. Additionally, the study explores factors like game prices, genres, and their influence on reviews and the number of downloads. Future research may seek alternative measures for the number of game downloads. Overall, this project provides valuable insights into the gaming industry and the role of reviews in game success
